@@ -15,4 +15,6 @@ The code doesn't have any dependencies and is currently distributed in binary fo
 How to use
 ----------
 
-Download the project and add it your solution or download one of the precompiled PCL libraries from the **Binaries** folder.
+Install the package from NuGet: https://www.nuget.org/packages/BinaryEndiannessExtensions/
+
+Alternatively, you can download the project and add it your solution or download one of the precompiled PCL libraries from the **Binaries** folder.
